@@ -1,4 +1,11 @@
-# **Welcome to BorneLabs!** 🚀
+<div align="center">
+  <h1>
+    <b>
+      <span style="color:#10afc2;">Borne</span><span style="color:#dfac51;">Labs</span>
+    </b>
+    🚀
+  </h1>
+</div>
 
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://bornelabs.github.io)  
 [![GitHub Activity](https://img.shields.io/github/last-commit/BorneLabs/bornelabs.github.io)](https://github.com/BorneLabs)  
