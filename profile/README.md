@@ -3,7 +3,7 @@
     <b>
       <span style="color:#10afc2;">Borne</span><span style="color:#dfac51;">Labs</span>
     </b>
-    🚀
+    
   </h1>
 </div>
 
