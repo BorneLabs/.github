@@ -59,7 +59,7 @@ Check out our [projects](https://github.com/BorneLabs) and get involved in shapi
 
 - **Website**: [BorneLabs.github.io](https://bornelabs.github.io)
 - **GitHub**: [@BorneLabs](https://github.com/BorneLabs)
-- **Contact Us**: [info@bornelabs.com](mailto:info@bornelabs.com)
+- **Contact Us**: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)
 
 ---
 
