@@ -1,37 +1,59 @@
 # **Welcome to BorneLabs!** 🚀
 
+
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://bornelabs.github.io)  
 [![GitHub Activity](https://img.shields.io/github/last-commit/BorneLabs/bornelabs.github.io)](https://github.com/BorneLabs)  
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/BorneLabs)  
 
 ---
 
-BorneLabs was founded in 2025 with a mission to leverage cutting-edge technologies and foster collaboration, innovation, and education. We focus on delivering future-ready solutions that solve complex challenges and create meaningful impact. 
+### **A Community-Driven Tech Organization** 🤝  
+BorneLabs is a community-driven hub for technological and creative innovation. Our mission is to inspire and empower developers, innovators, and enthusiasts by providing tools, resources, and opportunities for collaboration.
 
 🌐 **Website**: [BorneLabs.github.io](https://bornelabs.github.io)
 
 ---
 
-## **Features** ✨
+## **About BorneLabs** 🛠️
 
-### 🌟 **Software and Solutions**
-- Developing apps and software using **Java**, **Swift**, **JavaScript**, and more.
-- Leveraging frameworks like **React Native** and **Flutter** for seamless cross-platform experiences.
-- Ensuring secure applications with **RESTful APIs**, **GraphQL**, **OAuth**, and **JWT authentication**.
+BorneLabs was founded in 2025 by a group of passionate innovators who envisioned an ecosystem where creators, educators, and researchers could collaborate, share resources, and solve real-world problems using cutting-edge technology. 
 
-### 🤖 **Innovation and Exploration**
-- Pioneering AI-driven solutions using **TensorFlow**, **PyTorch**, and **Apache Spark**.
-- Real-time deployment and scalability via **AWS** and **Google Cloud**.
-- Open-source contributions and cutting-edge tech exploration.
+With three core pillars:
 
-### 📚 **Education and Outreach**
-- Hosting workshops, hackathons, and webinars to inspire and educate.
-- Providing open-source resources to empower the tech community.
-- Building partnerships to create a global ecosystem of innovation.
+- **Software and Solutions Wing**: Specializing in app development, operating systems, games, and integrating AI technologies to deliver transformative solutions.
+- **Innovation and Exploration Wing**: Showcasing and sharing groundbreaking, open-source innovations across diverse fields.
+- **Education and Outreach Wing**: Fostering growth and learning through workshops, webinars, and hackathons.
+
+BorneLabs continues to empower innovators worldwide by turning ideas into reality, hosting hackathons, and building impactful tools and educational programs.
 
 ---
 
-## **Languages and Tools** 🛠️
+## **Meet Our Team** 👥
+
+### Leadership:
+
+- **Brian Mutune** - Founder and Software & Solution Lead  
+  [LinkedIn](https://www.linkedin.com/in/brian-mutune/)  
+
+- **Lance Andala** - Co-Founder and Education & Outreach Lead  
+  [LinkedIn](https://www.linkedin.com/in/lance-andala-75303b281/)  
+
+- **Dennis Muli** - Head of Innovation & Exploration  
+  [LinkedIn](https://www.linkedin.com/in/dennis-muli-31720633a/)  
+
+---
+
+## **Core Values** 🌟
+
+1. **Innovation**: Creativity and forward-thinking to transform industries.
+2. **Integrity**: Upholding the highest standards of ethics and transparency.
+3. **Collaboration**: Partnering with communities to achieve shared success.
+4. **Excellence**: Delivering top-quality products and services.
+5. **Impact**: Focusing on technologies that make a meaningful difference.
+
+---
+
+## **Key Technologies** 🔧
 
 ![Java](https://img.shields.io/badge/Code-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -45,22 +67,33 @@ BorneLabs was founded in 2025 with a mission to leverage cutting-edge technologi
 
 ---
 
-## **Join Us** 🤝
+## **Get Involved** 🌐
 
 - 🌱 Contribute to open-source projects.
 - 💡 Collaborate on innovative solutions.
-- 🎓 Participate in our educational programs.
-
-Check out our [projects](https://github.com/BorneLabs) and get involved in shaping the future of tech! 💻
+- 🎓 Participate in workshops, webinars, and hackathons.
+- ✉️ **Join the Team**: Interested in joining BorneLabs? [Click here to notify us](mailto:brianxborne@gmail.com?subject=Join%20BorneLabs%20Team&body=Hello,%20I%20am%20interested%20in%20joining%20the%20team.%20Please%20let%20me%20know%20the%20next%20steps!) and tell us a bit about yourself!
 
 ---
 
-## **Stay Connected** 🌐
+## **Communities** 🌍
+
+BorneLabs fosters diverse communities driving innovation and growth:
+
+1. **Development & Operations**: Creating user-centered solutions through cutting-edge technologies.
+2. **Research & Innovation**: Advancing AI and emerging tech to solve real-world challenges.
+3. **Business & Strategy**: Ensuring sustainable growth through strategic initiatives.
+4. **Industry-Specific**: Tailoring solutions to meet sector-specific needs.
+
+---
+
+## **Stay Connected** ✨
 
 - **Website**: [BorneLabs.github.io](https://bornelabs.github.io)
 - **GitHub**: [@BorneLabs](https://github.com/BorneLabs)
-- **Contact Us**: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)
+- **Email**: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)
 
 ---
 
 ✨ Together, let’s innovate, explore, and inspire! ✨
+
