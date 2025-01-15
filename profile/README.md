@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>
+  <h1 style="display: inline;">
     <b>
       <span style="color:#10afc2;">Borne</span><span style="color:#dfac51;">Labs</span>
     </b>
   </h1>
-  <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" />
+  <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" style="display: inline; margin-left: 20px;" />
 </div>
 
 
