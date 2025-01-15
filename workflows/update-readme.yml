@@ -1,0 +1,47 @@
+name: Update README with Last Commit Info
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Get Last Commit Date
+        run: |
+          last_commit_date=$(git log -1 --format=%cd --date=iso)
+          current_date=$(date --iso-8601=seconds)
+          last_commit=$(git log -1 --format=%s)
+          
+          # Calculate time difference
+          last_commit_time=$((($(date -d "$current_date" +%s) - $(date -d "$last_commit_date" +%s)) / 3600))
+
+          if [ "$last_commit_time" -lt 24 ]; then
+            label="Last Commit: Today"
+          elif [ "$last_commit_time" -lt 48 ]; then
+            label="Last Commit: Yesterday"
+          elif [ "$last_commit_time" -lt 168 ]; then
+            label="Last Commit: This Week"
+          elif [ "$last_commit_time" -lt 720 ]; then
+            label="Last Commit: This Month"
+          else
+            label="Last Commit: This Year"
+          fi
+
+          # Update README
+          sed -i "s|Last Commit:.*|$label|g" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Last Commit badge in README"
+          git push
