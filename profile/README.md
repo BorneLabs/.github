@@ -3,9 +3,10 @@
     <b>
       <span style="color:#10afc2;">Borne</span><span style="color:#dfac51;">Labs</span>
     </b>
-    
   </h1>
+  <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" />
 </div>
+
 
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://bornelabs.github.io)  
 [![GitHub Activity](https://img.shields.io/github/last-commit/BorneLabs/bornelabs.github.io)](https://github.com/BorneLabs)  
