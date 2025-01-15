@@ -1,16 +1,29 @@
 <div align="center">
-  <h1 style="display: inline;">
+  <h1>
     <b>
       <span style="color:#10afc2;">Borne</span><span style="color:#dfac51;">Labs</span>
     </b>
   </h1>
-  <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" style="display: inline; margin-left: 20px;" />
 </div>
 
-
-[![Website](https://img.shields.io/badge/Website-Visit%20Here-blue)](https://bornelabs.github.io)  
-[![GitHub Activity](https://img.shields.io/github/last-commit/BorneLabs/bornelabs.github.io)](https://github.com/BorneLabs)  
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/BorneLabs)  
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" />
+  </td>
+  <td align="center">
+    <a href="https://bornelabs.github.io">
+      <img src="https://img.shields.io/badge/Website-Visit%20Here-blue" alt="Website Badge" />
+    </a><br>
+    <a href="https://github.com/BorneLabs">
+      <img src="https://img.shields.io/github/last-commit/BorneLabs/bornelabs.github.io" alt="GitHub Activity Badge" />
+    </a><br>
+    <a href="https://github.com/BorneLabs">
+      <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Welcome Badge" />
+    </a>
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -21,28 +34,28 @@ BorneLabs is more than a company—we're a **community** of innovators, educator
 
 ---
 
-## **What We Do** ✨
+
+## **Our Work** ✨
 
 ### 🌟 **Software and Solutions**
-- **Languages**: Java, Swift, JavaScript, Python, and more.
-- **Frameworks**: React Native, Flutter for seamless cross-platform development.
-- **Security**: Robust solutions with RESTful APIs, GraphQL, OAuth, and JWT.
+- Programming in **Java**, **Swift**, **JavaScript**, **Python**, and more.
+- Cross-platform apps with **React Native** and **Flutter**.
+- Secure APIs with **OAuth**, **JWT**, and GraphQL.
 
-### 🤖 **Innovation and Exploration**
-- AI-driven solutions using TensorFlow, PyTorch, and Apache Spark.
-- Scalable deployments via AWS and Google Cloud.
-- Cutting-edge exploration with open-source contributions.
+### 🤖 **AI and Innovation**
+- AI solutions using **TensorFlow** and **PyTorch**.
+- Scalable cloud deployments via **AWS** and **Google Cloud**.
+- Cutting-edge tools through open-source contributions.
 
 ### 📚 **Education and Outreach**
-- **Workshops**: Hands-on training for emerging technologies.
-- **Hackathons**: Collaborative events to tackle real-world challenges.
-- **Resources**: Open-source tools, guides, and learning materials.
+- Hands-on **workshops** for emerging tech.
+- Collaborative **hackathons** to solve real-world problems.
+- Free, open-source learning materials and tools.
 
 ---
 
-## **Key Features** 🛠️
+## **Key Technologies** 🛠️
 
-### **Languages and Tools**  
 ![Java](https://img.shields.io/badge/Code-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,22 +68,21 @@ BorneLabs is more than a company—we're a **community** of innovators, educator
 
 ---
 
-## **How to Get Involved** 🌟
+## **Get Involved** 🌟  
 
-- 🌱 Contribute to open-source projects.
-- 💡 Collaborate on innovative solutions.
-- 🎓 Participate in workshops, webinars, and hackathons.
-- ✉️ **Join the Team**: Interested in joining BorneLabs? [Click here to notify us](mailto:brianxborne@gmail.com?subject=Join%20BorneLabs%20Team&body=Hello,%20I%20am%20interested%20in%20joining%20the%20team.%20Please%20let%20me%20know%20the%20next%20steps!) and tell us a bit about yourself!
-
-Check out our [projects](https://github.com/BorneLabs) and be part of shaping the future of tech! 💻
+Join our mission:  
+- Contribute to open-source projects.  
+- Collaborate on innovative solutions.  
+- Participate in workshops and hackathons.  
+- **Join Our Team**: [Email us](mailto:brianxborne@gmail.com?subject=Join%20BorneLabs%20Team&body=Hello,%20I%20am%20interested%20in%20joining%20the%20team.%20Please%20let%20me%20know%20the%20next%20steps!) with your interest.  
 
 ---
 
-## **Stay Connected** 🌐
+## **Connect With Us** 🌐  
 
-- **Website**: [BorneLabs.github.io](https://bornelabs.github.io)
-- **GitHub**: [@BorneLabs](https://github.com/BorneLabs)
-- **Email**: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)
+- **Website**: [Visit Here](https://bornelabs.github.io)  
+- **GitHub**: [BorneLabs](https://github.com/BorneLabs)  
+- **Email**: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)  
 
 ---
 
