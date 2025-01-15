@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Website-Visit%20Here-blue?style=for-the-badge" alt="Website Badge" />
     </a><br>
     <a href="https://github.com/BorneLabs">
-      <img src="https://img.shields.io/badge/Last%20Commit-Today-brightgreen?style=for-the-badge" alt="Last Commit Badge" />
+      <img src="https://img.shields.io/github/last-commit/BorneLabs/bornelabs.github.io?style=for-the-badge" alt="GitHub Last Commit Badge" />
     </a><br>
     <a href="https://github.com/BorneLabs">
       <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge" alt="Contributions Welcome Badge" />
@@ -24,6 +24,7 @@
   </td>
 </tr>
 </table>
+
 
 ---
 
