@@ -12,23 +12,6 @@
 
 ---
 
-### **Top Contributors**  
-
-<p align="center">
-  <a href="https://github.com/BorneLabs">
-    <img src="https://avatars.githubusercontent.com/u/11694250?v=4" alt="Brian Mutune" width="80" height="80" style="border-radius:50%;" />
-  </a>
-  <a href="https://github.com/dennismuli">
-    <img src="https://avatars.githubusercontent.com/u/6789292?v=4" alt="Dennis Muli" width="80" height="80" style="border-radius:50%;" />
-  </a>
-  <a href="https://github.com/lanceandala">
-    <img src="https://avatars.githubusercontent.com/u/35970726?v=4" alt="Lance Andala" width="80" height="80" style="border-radius:50%;" />
-  </a>
-  <!-- Add more contributors below as needed -->
-</p>
-
----
-
 ### **A Community-Driven Tech Organization**  
 BorneLabs is more than just a company—we're a **community** of innovators, educators, and tech enthusiasts committed to creating open-source projects that solve real-world challenges. We believe in collaboration, transparency, and accessibility.
 
