@@ -7,42 +7,25 @@
   <p align="center">
     <strong>A Hub for innovations, Collaboration and Education</strong>
   </p>
+  <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" />
 </div>
 
-<table align="center">
-<tr>
-  <td align="center">
-    <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" />
-  </td>
-  <td align="center" valign="top">
-    <h3>Quick Links</h3>
-    <table align="center">
-      <tr>
-        <td>
-          <a href="https://bornelabs.github.io">
-            <img src="https://img.shields.io/badge/Website-Visit%20Here-blue?style=for-the-badge&width=200" alt="Website Badge" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/BorneLabs">
-            <img src="https://img.shields.io/badge/Last%20Commit-Today-brightgreen?style=for-the-badge&width=200" alt="Last Commit Badge" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/BorneLabs">
-            <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&width=200" alt="Contributions Badge" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/BorneLabs">
-            <img src="https://img.shields.io/badge/Stars-%E2%98%85%20Give%20Us%20A%20Star-orange?style=for-the-badge&width=200" alt="Stars Badge" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-</table>
+---
+
+### **Top Contributors**  
+
+<p align="center">
+  <a href="https://github.com/BorneLabs">
+    <img src="https://avatars.githubusercontent.com/u/11694250?v=4" alt="Brian Mutune" width="80" height="80" style="border-radius:50%;" />
+  </a>
+  <a href="https://github.com/dennismuli">
+    <img src="https://avatars.githubusercontent.com/u/6789292?v=4" alt="Dennis Muli" width="80" height="80" style="border-radius:50%;" />
+  </a>
+  <a href="https://github.com/lanceandala">
+    <img src="https://avatars.githubusercontent.com/u/35970726?v=4" alt="Lance Andala" width="80" height="80" style="border-radius:50%;" />
+  </a>
+  <!-- Add more contributors below as needed -->
+</p>
 
 ---
 
@@ -82,7 +65,6 @@ Education is the cornerstone of innovation. This wing ensures that knowledge and
 - **Resources**: Open-source educational materials and mentorship networks.
 
 Overseen by **Lance Andala**.
-
 
 ---
 
