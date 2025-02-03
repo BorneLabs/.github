@@ -81,7 +81,7 @@ Join our mission:
 
 - **Website**: [Visit Here](https://bornelabs.github.io)  
 - **GitHub**: [BorneLabs](https://github.com/BorneLabs)  
-- **Email**: [brianxborne@gmail.com](mailto:brianxborne@gmail.com)  
+- **Email**: [bornelabs.org@gmail.com](mailto:bornelabs.org@gmail.com)  
 - **Twitter**: [Follow Us](https://twitter.com/BorneLabs)  
 
 ---
