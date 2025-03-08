@@ -1,97 +1,97 @@
-<div align="center">
-  <h1>
-    <b>
-      <span style="color:#10afc2;">Borne</span><span style="color:#dfac51;">Labs</span>
-    </b>
-  </h1>
-  <p align="center">
-    <strong>A Hub for innovations, Collaboration and Education</strong>
-  </p>
-  <img src="https://github.com/BorneLabs/Assets/blob/main/Images/BorneLabs%20Walpaper.png?raw=true" alt="BorneLabs Logo" width="200" />
-</div>
+<div style="background-color:#1a1a1a; color:#f0f0f0; font-family: 'Courier New', Courier, monospace; padding:20px;">
+
+# <span style="color:#00ffff;">Borne</span><span style="color:#ff4500;">Labs</span>
+
+<img src="https://github.com/BorneLabs/Assets/blob/main/Images/Black%20Banner.png?raw=true" alt="BorneLabs Banner" style="width:100%;" />
+
+## About BorneLabs
+BorneLabs is a **community-driven tech organization** dedicated to open-source projects, collaboration, and education. We foster innovation in software development, emerging technologies, and knowledge sharing.
+
+[Visit Our Website](https://bornelabs.github.io)
 
 ---
 
-### **A Community-Driven Tech Organization**  
-BorneLabs is more than just a company—we're a **community** of innovators, educators, and tech enthusiasts committed to creating open-source projects that solve real-world challenges. We believe in collaboration, transparency, and accessibility.
+## Core Wings of BorneLabs
 
-🌐 **Website**: [BorneLabs.github.io](https://bornelabs.github.io)
+<details>
+  <summary><strong style="color:#00ffff;">Software and Solutions Wing</strong></summary>
 
----
+  This division focuses on software development and cutting-edge solutions:
+  - **App Development**: Scalable, user-friendly applications.
+  - **AI Integration**: Smart solutions leveraging artificial intelligence.
+  - **Game Development**: Immersive gaming experiences.
+  - **Operating Systems**: Open-source computing innovations.
 
-## **The Three Core Wings of BorneLabs** 
+  *Led by <a href="https://www.linkedin.com/in/dylanlance/" style="color:#00ffff;">Dylan Lance</a>.*
+</details>
 
-### 1. **Software and Solutions Wing**  
-This division specializes in creating software and systems that address real-world challenges. Key areas include:  
-- **App Development**: Scalable, user-friendly applications.
-- **AI Integration**: Adaptive solutions leveraging artificial intelligence.
-- **Game Development**: Immersive, innovative gaming experiences.
-- **Operating Systems**: Pioneering open-source computing platforms.
+<details>
+  <summary><strong style="color:#ff4500;">Innovation and Exploration Wing</strong></summary>
 
-Support includes mentorship programs, open-source tools, and collaboration platforms. Led by **Brian Mutune**.
+  Driving research in futuristic technologies:
+  - **Resources**: Prototyping labs, blueprints, and forums.
+  - **Focus Areas**: Renewable energy, biotechnology, quantum computing, etc.
 
----
+  *Spearheaded by <a href="https://www.linkedin.com/in/dennis-muli-31720633a/" style="color:#00ffff;">Dennis Muli</a>.*
+</details>
 
-### 2. **Innovation and Exploration Wing**  
-This wing focuses on pushing the boundaries of technology and science, fostering interdisciplinary collaborations, and providing tools for prototyping groundbreaking ideas.  
-- **Resources**: Blueprint repositories, prototyping labs, and community forums.
-- **Focus Areas**: Renewable energy, biotechnology, quantum computing, and more.
+<details>
+  <summary><strong style="color:#00ffff;">Education and Outreach Wing</strong></summary>
 
-Spearheaded by **Dennis Muli**.
+  Expanding learning opportunities for all:
+  - **Initiatives**: Workshops, webinars, and hackathons.
+  - **Partnerships**: Collaborations with institutions.
+  - **Resources**: Open-source educational content.
 
----
-
-### 3. **Education and Outreach Wing**  
-Education is the cornerstone of innovation. This wing ensures that knowledge and skills are accessible to all.  
-- **Initiatives**: Workshops, webinars, and hackathons.
-- **Partnerships**: Collaborations with institutions to expand learning opportunities.
-- **Resources**: Open-source educational materials and mentorship networks.
-
-Overseen by **Lance Andala**.
+  *Overseen by <a href="https://www.linkedin.com/in/lance-andala-75303b281/" style="color:#00ffff;">Lance Andala</a>.*
+</details>
 
 ---
 
-## **Key Technologies**
+## Key Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-007396?style=for-the-badge&logo=java&logoColor=white&width=200" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Code-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&width=200" alt="Swift Badge" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&width=200" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&width=200" alt="React Native Badge" />
-  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&width=200" alt="Flutter Badge" />
-  <img src="https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&width=200" alt="TensorFlow Badge" />
-  <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&width=200" alt="PyTorch Badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&width=200" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&width=200" alt="Google Cloud Badge" />
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-## **Get Involved**  
+<table style="width:100%; table-layout: fixed; border-collapse: collapse; margin-top:20px;">
+  <tr>
+    <td style="width:50%; vertical-align: top; padding: 10px;">
+      <h2 style="color:#00ffff; margin-top:0;">Get Involved</h2>
+      <ul>
+        <li>Contribute to open-source projects.</li>
+        <li>Collaborate on innovative solutions.</li>
+        <li>Join our workshops and hackathons.</li>
+        <li><strong>Join Our Team</strong>: <a href="mailto:brianxborne@gmail.com?subject=Join%20BorneLabs%20Team&amp;body=Hello, I am interested in joining the team. Please let me know the next steps!">Email Us</a></li>
+      </ul>
+    </td>
+    <td style="width:50%; vertical-align: top; padding: 10px;">
+      <h2 style="color:#ff4500; margin-top:0;">Connect With Us</h2>
+      <ul>
+        <li><strong>Website</strong>: <a href="https://bornelabs.github.io">Visit Here</a></li>
+        <li><strong>GitHub</strong>: <a href="https://github.com/BorneLabs">BorneLabs</a></li>
+        <li><strong>Email</strong>: <a href="mailto:bornelabs.org@gmail.com">BorneLabs.Org@gmail.com</a></li>
+        <li><strong>Twitter</strong>: <a href="https://twitter.com/BorneLabs">Follow Us</a></li>
+        <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/company/bornelabs">BorneLabs</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Join our mission:
-- Contribute to open-source projects.  
-- Collaborate on innovative solutions.  
-- Participate in workshops and hackathons.  
-- **Join Our Team**: [Email us](mailto:brianxborne@gmail.com?subject=Join%20BorneLabs%20Team&body=Hello,%20I%20am%20interested%20in%20joining%20the%20team.%20Please%20let%20me%20know%20the%20next%20steps!) with your interest.
 
 ---
 
-## **Connect With Us** 🌐  
-
-- **Website**: [Visit Here](https://bornelabs.github.io)  
-- **GitHub**: [BorneLabs](https://github.com/BorneLabs)  
-- **Email**: [BorneLabs.Org@gmail.com](mailto:bornelabs.org@gmail.com)  
-- **Twitter**: [Follow Us](https://twitter.com/BorneLabs)  
-
----
-
-### 💬 Developer Quotes for Inspiration
+## Inspirational Quotes
 
 > "Innovation distinguishes between a leader and a follower." — Steve Jobs  
 > "The best way to predict the future is to invent it." — Alan Kay  
 > "Simplicity is the soul of efficiency." — Austin Freeman
-
----
-
-✨ **Together, let’s innovate, explore, and inspire!** ✨
+</div>
