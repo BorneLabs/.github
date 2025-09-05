@@ -1,97 +1,64 @@
-<div style="background-color:#1a1a1a; color:#f0f0f0; font-family: 'Courier New', Courier, monospace; padding:20px;">
+      
 
-# <span style="color:#00ffff;">Borne</span><span style="color:#ff4500;">Labs</span>
+# Bornelabs™  
 
-<img src="https://github.com/BorneLabs/Assets/blob/main/Images/Black%20Banner.png?raw=true" alt="BorneLabs Banner" style="width:100%;" />
 
-## About BorneLabs
-BorneLabs is a **community-driven tech organization** dedicated to open-source projects, collaboration, and education. We foster innovation in software development, emerging technologies, and knowledge sharing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bornelabs) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bornelabs.github.io) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bornelabs.org@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BorneLabs) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BorneLabs) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/channel/0029Vb06NZiHltYEOS61j33O) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@official_bornelabs)
 
-[Visit Our Website](https://bornelabs.github.io)
 
----
 
-## Core Wings of BorneLabs
+###  **BorneLabs** is a **community-driven tech organization** focused on **open-source projects**, **collaboration**, and **education**. It encourages **innovation** in software development, emerging technologies, and knowledge sharing. The organization is made up of **three main wings**. 
 
-<details>
-  <summary><strong style="color:#00ffff;">Software and Solutions Wing</strong></summary>
+### 1. SAS 
+The **Software and Solutions Wing**, led by [**Dylan Lance**](https://www.linkedin.com/in/dylanlance/), focuses on building software, creating smart applications using artificial intelligence, developing immersive games, and exploring open-source operating systems.
 
-  This division focuses on software development and cutting-edge solutions:
-  - **App Development**: Scalable, user-friendly applications.
-  - **AI Integration**: Smart solutions leveraging artificial intelligence.
-  - **Game Development**: Immersive gaming experiences.
-  - **Operating Systems**: Open-source computing innovations.
+### 2. IAE
+The **Innovation and Exploration Wing**, headed by [**Dennis Muli**](https://www.linkedin.com/in/dennis-muli-31720633a/), researches advanced and future-facing technologies like renewable energy, biotechnology, and quantum computing, using tools such as labs, blueprints, and online forums.
 
-  *Led by <a href="https://www.linkedin.com/in/dylanlance/" style="color:#00ffff;">Dylan Lance</a>.*
-</details>
+### 3. EAO
+The **Education and Outreach Wing**, overseen by [**Lance Andala**](https://www.linkedin.com/in/lance-andala-75303b281/), supports learning through workshops, webinars, hackathons, and partnerships with institutions, while also offering open-source educational materials. 
 
-<details>
-  <summary><strong style="color:#ff4500;">Innovation and Exploration Wing</strong></summary>
+--- 
 
-  Driving research in futuristic technologies:
-  - **Resources**: Prototyping labs, blueprints, and forums.
-  - **Focus Areas**: Renewable energy, biotechnology, quantum computing, etc.
+### <table><tr><td>Software And Solutions</td></tr></table>
 
-  *Spearheaded by <a href="https://www.linkedin.com/in/dennis-muli-31720633a/" style="color:#00ffff;">Dennis Muli</a>.*
-</details>
 
-<details>
-  <summary><strong style="color:#00ffff;">Education and Outreach Wing</strong></summary>
 
-  Expanding learning opportunities for all:
-  - **Initiatives**: Workshops, webinars, and hackathons.
-  - **Partnerships**: Collaborations with institutions.
-  - **Resources**: Open-source educational content.
-
-  *Overseen by <a href="https://www.linkedin.com/in/lance-andala-75303b281/" style="color:#00ffff;">Lance Andala</a>.*
-</details>
+| SAS.1 | SAS.2 | SAS.3 | SAS.4 | SAS.5 | SAS.6 | SAS.7 | SAS.8 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <a href="https://github.com/Grid-Forum" > <img src="https://github.com/Grid-Forum/Assets/blob/main/The%20Grid%20Icon.jpg?raw=true" width="80" height="80"> </a>| <a href="https://github.com/KU-Students-App/KSA/releases/tag/v2.1" > <img src="https://raw.githubusercontent.com/KU-Students-App/Assets/main/Images/KU%20StudentsAPP%20Logo.jpeg" width="80" height="80"> </a> | <a href="https://www.bornelabs.tech/SAS.3-COMMUNITY-PAGE" > <img src="https://github.com/BorneLabs/Assets/blob/main/Images/Community%20Page.png?raw=true" width="80" height="80"> </a>| <a href="https://github.com/cognito-terminal" > <img src="https://github.com/cognito-terminal/cognito-mobile-app/blob/main/Assets/Cognito.png?raw=true" width="80" height="80"> </a>| <a href="https://github.com/BorneLabs/SAS.5-TAB-KILLER-ChromeExtension"> <img src="https://github.com/BorneLabs/SAS.5-TAB-KILLER-ChromeExtension/blob/main/Tab%20Killer%20Logo%20.png" width="80" height="80"> </a>| <a href="https://github.com/Neural-Agent-Modelling-Engine" >  <img src="https://raw.githubusercontent.com/Neural-Agent-Modelling-Engine/Assets/main/NLogo.png" width="80" height="80"> </a> | <a href="https://github.com/Our-Minds" > <img src="https://github.com/Our-Minds/Assets/blob/main/Images/OurMinds.png?raw=true" width="80" height="80"> </a>| <a href="https://github.com/Samurai-Vault" > <img src="https://github.com/Samurai-Vault/Assets/blob/main/Logos/Samurai%20Logo.jpg?raw=true" width="80" height="80"> </a>|
+| Grid Forum | KSA | Community Page | Cognito | Tab Killer | NAME | Ourminds | Samurai |
 
 ---
 
-## Key Technologies
+### <table><tr><td>Innovation and Exploration</td></tr></table>
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+| IAE.1 |
+|:--:|
+| <a href="https://www.linkedin.com/posts/bornelabs_bornelabs-innovation-opensource-activity-7293363042971475969-Rdhi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIbXDsBn2Dc_mdZ7T3thbODUYkMn01u2Qo" > <img src="https://github.com/BorneLabs/IAE.1-FLUX-PULSE-MOTOR/blob/main/Flux%20Pulse%20Motor.png?raw=true" width="80" height="80"> </a>|
+| FPM |
 
 ---
 
-<table style="width:100%; table-layout: fixed; border-collapse: collapse; margin-top:20px;">
-  <tr>
-    <td style="width:50%; vertical-align: top; padding: 10px;">
-      <h2 style="color:#00ffff; margin-top:0;">Get Involved</h2>
-      <ul>
-        <li>Contribute to open-source projects.</li>
-        <li>Collaborate on innovative solutions.</li>
-        <li>Join our workshops and hackathons.</li>
-        <li><strong>Join Our Team</strong>: <a href="mailto:brianxborne@gmail.com?subject=Join%20BorneLabs%20Team&amp;body=Hello, I am interested in joining the team. Please let me know the next steps!">Email Us</a></li>
-      </ul>
-    </td>
-    <td style="width:50%; vertical-align: top; padding: 10px;">
-      <h2 style="color:#ff4500; margin-top:0;">Connect With Us</h2>
-      <ul>
-        <li><strong>Website</strong>: <a href="https://bornelabs.github.io">Visit Here</a></li>
-        <li><strong>GitHub</strong>: <a href="https://github.com/BorneLabs">BorneLabs</a></li>
-        <li><strong>Email</strong>: <a href="mailto:bornelabs.org@gmail.com">BorneLabs.Org@gmail.com</a></li>
-        <li><strong>Twitter</strong>: <a href="https://twitter.com/BorneLabs">Follow Us</a></li>
-        <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/company/bornelabs">BorneLabs</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### <table><tr><td>Education and Outreach </td></tr></table>
 
+
+| EAO.1 |
+|:--:|
+| <a href="https://www.youtube.com/playlist?list=PLTflkR6DW1cMdVm6OeKr9bnqNOCVvxl7i" > <img src="https://github.com/BorneLabs/EAO-Resources/blob/main/EAO.1/Linux.jpg?raw=true" width="80" height="80"> </a>|
+| Linux Course |
 
 ---
 
-## Inspirational Quotes
+[![BorneLabs Banner](https://github.com/BorneLabs/Assets/blob/main/Images/Black%20Banner.png?raw=true)](https://www.bornelabs.tech)
 
-> "Innovation distinguishes between a leader and a follower." — Steve Jobs  
-> "The best way to predict the future is to invent it." — Alan Kay  
-> "Simplicity is the soul of efficiency." — Austin Freeman
-</div>
+
+### At **BorneLabs**, we invite everyone to be part of our journey. You can get involved by contributing to our open-source projects, collaborating on innovative solutions, or taking part in our workshops and hackathons. These are great opportunities to learn, share ideas, and build together with a community of passionate creators.
+If you’re interested in joining our team, we’d love to hear from you. You can email us at **bornelabs.org@gmail.com** to express your interest, and we’ll guide you through the next steps.
+
+
+
+
+
+
